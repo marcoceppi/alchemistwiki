@@ -1,2 +1,1 @@
-Made with <3 by [Jorge](http://www.jorgecastro.org) and [Marco](http://marcoceppi.org)
-Steam and Valve are trademarks of Valve Corporation. This site is not officially endorsed.
+This site brought to you with <3 by [Marco](http://marcoceppi.org) and [Jorge](http://www.jorgecastro.org)
