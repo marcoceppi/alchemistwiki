@@ -14,6 +14,12 @@ Known-working Hardware
 
 ### Wireless and Ethernet Chipsets
 
+## Gamepads
+
+- XBox 360 Wired Controller
+- XBox 360 Wireless Controller - (link to some dongles)
+- For PS4 Controllers: Investigate https://github.com/chrippa/ds4drv
+
 ## USB Headsets
 
 - [Logitech G930 Wireless Headset](http://steamcommunity.com/groups/steamuniverse/discussions/1/558749824650574913/)
