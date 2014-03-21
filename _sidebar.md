@@ -2,6 +2,7 @@
 ## Using SteamOS
 
 - [[Getting Started | GettingStarted]]
+- [FAQ](http://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999/)
 - [SteamOS Discussion Forum](http://steamcommunity.com/groups/steamuniverse/discussions/1/)
 - [[Hardware]]
 
