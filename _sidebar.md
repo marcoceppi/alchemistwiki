@@ -3,6 +3,7 @@
 
 - [[Getting Started | GettingStarted]]
 - [SteamOS Discussion Forum](http://steamcommunity.com/groups/steamuniverse/discussions/1/)
+- [[Hardware]]
 
 ## Customizing
 
