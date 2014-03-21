@@ -18,6 +18,7 @@ Known-working Hardware
 
 - XBox 360 Wired Controller
 - XBox 360 Wireless Controller - (link to some dongles)
+- PS3 Controllers - http://w3.reddit.com/r/SteamOS/comments/1svnfx/ps3_controller_bluetooth/
 - For PS4 Controllers: Investigate https://github.com/chrippa/ds4drv
 
 ## USB Headsets
