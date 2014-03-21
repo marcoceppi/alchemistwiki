@@ -3,7 +3,7 @@
 
 - [[Getting Started | GettingStarted]]
 
-## Customizing SteamOS
+## Customizing
 
 ### Other Resources
 
