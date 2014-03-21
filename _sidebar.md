@@ -1,5 +1,9 @@
-# # Index
+# Table of Contents
+## Using SteamOS
+
 - [[Getting Started | GettingStarted]]
+
+## Customizing SteamOS
 
 ### Other Resources
 
