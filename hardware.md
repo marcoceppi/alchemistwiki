@@ -18,3 +18,7 @@ Known-working Hardware
 
 - [Logitech G930 Wireless Headset](http://steamcommunity.com/groups/steamuniverse/discussions/1/558749824650574913/)
 - [Logitech H600 Wireless Headset](http://steamcommunity.com/groups/steamuniverse/discussions/1/558749824650574913/)
+
+## Cases 
+
+- http://steamcommunity.com/groups/steamuniverse/discussions/0/558750624763344611/
