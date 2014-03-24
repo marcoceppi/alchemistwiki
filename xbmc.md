@@ -1,2 +1,2 @@
 # XBMC
-Guide to integrating XBMC into SteamOS
+TODO: Guide to integrating XBMC into SteamOS
