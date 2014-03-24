@@ -1,5 +1,5 @@
 # Manually Adding Software to Steam
-This isn't as easy as you'd think, here are the basic steps, more detail required:
+TODO: This isn't as easy as you'd think, here are the basic steps, more detail required:
 
 - Turn off autologin in lightdm
 - Log into desktop
