@@ -3,8 +3,6 @@
 
 This wiki is a place where we can collect information about SteamOS, like tips and tricks and other useful information that gets buried in discussion threads. 
 
-### Content
-
 - [Complete list of pages](http://alchemistwiki.com/wiki)
 
 ### Contributing
