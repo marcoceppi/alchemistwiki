@@ -1,14 +1,14 @@
 # Table of Contents
-## Using SteamOS
+*** Using SteamOS ***
 
 - [[Getting Started | GettingStarted]]
 - [FAQ](http://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999/)
 - [SteamOS Discussion Forum](http://steamcommunity.com/groups/steamuniverse/discussions/1/)
 - [[Hardware]]
 
-## Customizing
+*** Customizing ***
 
-### Other Resources
+*** Other Resources ***
 
 - [SteamOS bugtracker](https://github.com/ValveSoftware/SteamOS/issues)
 - [SteamOS on Github](https://github.com/ValveSoftware/SteamOS)
