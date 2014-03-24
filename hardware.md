@@ -33,4 +33,4 @@ Known-working Hardware
 
 ## Cases 
 
-- http://steamcommunity.com/groups/steamuniverse/discussions/0/558750624763344611/
+- TODO: Integrate http://steamcommunity.com/groups/steamuniverse/discussions/0/558750624763344611/ along with recommendations from /r/buildapc
